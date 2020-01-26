@@ -1,12 +1,26 @@
-.gradient_background{
-	background: #246a94;
-	background: linear-gradient(to right, #414141, #246a94, #00a2c7, #00d6a5, #0bff00);
+.custom_background{
+	background: #f3f3f3;
 }
 #name{
-	width:100%;
 	font-size: 50px;
-	display: block;
+	padding: 15px;
 	text-align: center;
-	font-family: "Comic Sans", "Arial", "Times New Roman";
-	
+}
+#nav{
+	background-color: #333333;
+	width:100%;
+	font-size: 25px;
+	display: block;
+	text-align: left;
+	padding: 15px;
+	font-family: "Arial", "Times New Roman";
+}
+#nav a:link{
+	color: #009999;
+}
+#nav a:visited{
+	color: #009999;
+}
+#nav a:hover{
+	color: #00ffff;
 }
