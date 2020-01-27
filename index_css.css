@@ -5,14 +5,17 @@
 	font-size: 50px;
 	padding: 15px;
 	text-align: center;
+	font-family: "Times New Roman";
 }
 #nav{
-	background-color: #333333;
-	width:100%;
+	background-color: #444444;
+	width:95%;
 	font-size: 25px;
 	display: block;
 	text-align: left;
-	padding: 15px;
+	padding: 20px;
+	margin: 1%;
+	/* border: 15px; */
 	font-family: "Arial", "Times New Roman";
 }
 #nav a:link{
