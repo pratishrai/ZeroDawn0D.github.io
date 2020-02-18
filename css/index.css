@@ -1,0 +1,22 @@
+@import "base.css";
+
+#bio{
+	display:flex;
+	justify-content: center;
+}
+.dp{
+	order:0;
+	
+}
+.dp img{
+	border-radius: 50%;
+	width: 256pt;
+	height: 256pt;
+}
+.intro{
+	order:1; 
+	font-size:18pt;
+	font-family: "Calibri", "Calibri", "Times New Roman";
+	padding-left: 20pt;
+	padding-right: 20pt;
+}
