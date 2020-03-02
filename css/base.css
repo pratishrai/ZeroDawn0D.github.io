@@ -1,5 +1,8 @@
 .custom_background{
-	background: #f0f0f0;
+	background: #333333;
+}
+body{
+	color: #eeeeee;
 }
 #name{
 	font-size: 50px;
@@ -19,12 +22,12 @@
 	/* border: 15px; */
 	font-family: "Arial", "Times New Roman";
 }
-#nav a:link{
+a:link{
 	color: #009999;
 }
-#nav a:visited{
+a:visited{
 	color: #009999;
 }
-#nav a:hover{
+a:hover{
 	color: #00ffff;
 }
