@@ -1,1 +1,38 @@
 @import "base.css";
+
+body{
+	font-size: 11pt;
+}
+hr{
+	width: 50%;
+	text-align: center;
+	border-top: 1px solid #555555;
+}
+i{
+	color: #ffaaff;
+}
+#contact{
+	text-align: right;
+}
+
+.lvl1{
+	color: #00ffff;
+}
+.lvl2{
+	list-style-type: circle;
+	color:#FFFFFF;
+}
+
+.subhead{
+	border-top: 10pt;
+	font-size: 20pt;
+	text-align: center;
+}
+.info{
+	border-bottom: 10pt;
+	border-left: 10pt;
+	border-right: 10pt;
+	color: #FFFFFF;
+	background-color: #555555;
+	border-radius: 9pt;
+}
